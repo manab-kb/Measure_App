@@ -10,12 +10,12 @@ A clean-aesthetically pleasing Measuring Application, which uses relevant sensor
 <p>
   The app we built does what it reads i.e. measures. The core principle of the application makes use of all sensors built into the phone by default. The app provides the users with a vast variety of dimensions to choose from. The different options provided are: <br>
 <ul>
-  <li>Speedometer :                <i>Accelerometer Sensor</i></li> 
-  <li>Compass :                    <i>Accelerometer and Magnetic Field Sensor</i></li> 
-  <li>Tilt :                       <i>Game Rotation Vector Sensor</i></li> 
-  <li>Light sensor :               <i>Ambient Light Sensor</i></li> 
-  <li>Stop watch :                 <i>Programming Code</i></li> 
-  <li>Dimensions(height,width) :   <i>Linear Accelerometer Sensor</i></li>
+  <li>Speedometer:                <i>Accelerometer Sensor</i></li> 
+  <li>Compass:                    <i>Accelerometer and Magnetic Field Sensor</i></li> 
+  <li>Tilt:                       <i>Game Rotation Vector Sensor</i></li> 
+  <li>Light sensor:               <i>Ambient Light Sensor</i></li> 
+  <li>Stop watch:                 <i>Programming Code</i></li> 
+  <li>Dimensions(height,width):   <i>Linear Accelerometer Sensor</i></li>
 </ul>
 </p>
 
@@ -123,6 +123,4 @@ We only have a couple of rules and we hope you enjoy the process :)
 9. Mention what Issue you have worked on. If the issue number is #3, you can mention "Closes #3" in the Pull Request description.
 10. Submit Pull Request
 
-It's that easy! We hope you enjoy contributing to our repository. Don't hesitate to contact any of the maintainers or ACM team about any problems!
-
-<h3> This is an official repository maintained by ACM PESUECC for Hacktoberfest 2021! </h3>
+It's that easy! We hope you enjoy contributing to our repository. Don't hesitate to contact any of the maintainers about any problems!
